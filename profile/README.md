@@ -18,7 +18,7 @@ The GGITS  Team is committed to delivering reliable, scalable, and innovative te
 ## Get Involved
 We welcome contributions from the GGITS community! If you're a student, faculty member, or alumni interested in  engineering, feel free to host projects here. You can get started by:
 
-1. Browsing our [open issues](https://github.com/gyangangagroup/issues) and submitting bug reports or feature requests
+1. Browsing our [Discussions Page](https://github.com/orgs/GyanGangaGroup/discussions/new/choose) and if any, then submitting bug reports or feature requests
 2. Forking our repositories, making improvements, and submitting pull requests
 3. Connecting with our team members and discussing potential collaborations
 
