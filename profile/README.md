@@ -26,4 +26,6 @@ For more information, please reach out : [Here](mailto:ashokverma@ggits.org).
 
 ## Connect with Us
 - [GGITS Website](https://ggits.org/)
+- [GGCE Website](https://ggce.co.in/)
+- [GGGIC Website](https://gggic.in/)
 - [Gyanotsav Website](https://gyanotsav.com/)
